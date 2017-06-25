@@ -106,10 +106,10 @@ const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "e365a6238563bb45
 
 //TODO Add here your network seed nodes
 const std::initializer_list<const char*> SEED_NODES = {
-  "seed1.austral-coin.net.ar:51810",
-  "seed2.austral-coin.net.ar:51810",
-  "seed3.austral-coin.net.ar:51810",
-  "seed4.austral-coin.net.ar:51810"
+  "seed1.austral-coin.net.ar:11810",
+  "seed2.austral-coin.net.ar:11810",
+  "seed3.austral-coin.net.ar:11810",
+  "seed4.austral-coin.net.ar:11810"
 };
 
 struct CheckpointData {
